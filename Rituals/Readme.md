@@ -10,6 +10,8 @@ Ritual helps to connect with each other in a novel way. More humane.
 - 😆 memetic wall-fare - meme-centric place privacy comms   
 - ☂️ tailsOS distribution - privacy os education
 - 🪁 ethereum Cypherpunk Starting kit - educational material 
+- Web3Privacy now starting kit
+- Programmable cryptography starting kit
 - ♦️ privacy tarot - privacy future reading kit with David Chaum, Tornado Cash...
 - 🎭 DIY cypherpunk masks - customisible masks for anon people
 - ☕️ speciality coffee care

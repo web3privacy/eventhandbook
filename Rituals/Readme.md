@@ -3,19 +3,7 @@
 Ritual helps to connect with each other in a novel way. More humane.
 
 ## Available rituals
-- Memetic wallfare
-- Paperhub Academy
-- Privacy map
-- Speciality coffee session
-- Anonimous masks
-- Privacy tarot deck
-- Privacypoly board game
-- Sonic exploration
-📰 paper academy - critical whitepapers & concepts to read by 
-@audelau
- & 
-@alinalatinina
- 
+- 📰 paper academy - critical whitepapers & concepts to read by 
 - 💻 privacy builder pack - curated guides for privacy devs 
 - 🎲 privacypoly board game - anti-surveillance board game
 - 🌏 web3privacy landscape map - comprehensive web3 + privacy market snapshot
